@@ -8,7 +8,8 @@ Description: Soccer Locker will aim to provide the most important news about the
 https://rapidapi.com/api-sports/api/api-football
 
 ## Wireframes
-![Wireframe](https://github.com/cemaytac/SEI-Project1/blob/master/Screen%20Shot%202020-03-09%20at%2011.58.00%20AM.png)
+![Wireframe](https://github.com/cemaytac/SEI-Project1/blob/master/desktop%20wf.png)
+![Wireframe2](https://github.com/cemaytac/SEI-Project1/blob/master/mobile%20wf.png)
 
 
 ## MVP features
